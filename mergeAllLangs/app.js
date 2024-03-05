@@ -45,7 +45,7 @@ const reverseMappings = {
     "ar": "ar",
     "ca": "ca",
     "cs": "cs",
-    "cy-GB": "cy-GB",
+    "cy": "cy-GB",
     "da": "da",
     "de": "de",
     "es-MX": "es-LA",
