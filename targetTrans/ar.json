@@ -1,0 +1,13 @@
+{
+	"fs": {
+		"c": {
+			"d": {
+				"string1": "abc"
+			},
+			"string3": "ccc"
+		},
+		"general": {
+			"string2": "bbc"
+		}
+	}
+}

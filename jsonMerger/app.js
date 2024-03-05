@@ -57,6 +57,6 @@ function mergeObjects(target, source, mapping) {
 mergeObjects(targetData, sourceData, mappingData);
 
 // Write the merged data to the target JSON file
-fs.writeFileSync(targetFilePath, JSON.stringify(targetData, null, 2));
+fs.writeFileSync(targetFilePath, JSON.stringify(targetData, null, '\t'));
 
 console.log('Merging completed successfully!');
