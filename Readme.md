@@ -3,7 +3,7 @@ Todo: Improve documentation
 Usage
 
 ```
-	node mergeAllLangs sourceTranslationsFolder targetTranslationsFolder
+	node mergeAllLangs/app.js sourceTranslationsFolder targetTranslationsFolder
 ```
 
 Important: Extract your source translation folder, and add a mapping.json that contains the mapping to the parent object of the string
