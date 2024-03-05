@@ -1,0 +1,15 @@
+{
+  "fs": {
+    "b": 3,
+    "c": {
+      "e": 6,
+      "d": {
+        "string1": "abc"
+      },
+      "string3": "ccc"
+    },
+    "general": {
+      "string2": "bbc"
+    }
+  }
+}
