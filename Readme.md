@@ -15,3 +15,7 @@ eg:
 }
 ```
 implies newString is located at fs.common.newString
+
+
+Version 2
+Use simpleJsonMerger to merge JSON from source to target
